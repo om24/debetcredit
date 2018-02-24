@@ -46,7 +46,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "undefined",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/pencil-128x128.png",
     "noImageResize": "",
     "google-analytics": ""
   },
